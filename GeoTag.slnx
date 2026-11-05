@@ -1,2 +1,5 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GeoTag.Bot/GeoTag.Bot.csproj" Id="a058e723-df09-4c2d-876f-2f539cf1cf59" />
+  </Folder>
 </Solution>
